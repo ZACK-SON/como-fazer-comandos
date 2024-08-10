@@ -1,0 +1,11 @@
+ANGULARJS já morreu.
+
+Tudo agora é feito em ANGULAR 2. V1 até V20+.
+
+site do ANGULAR
+https://angular.dev/
+
+BLOG do ANGULAR
+https://blog.angular.dev/
+
+CONTINUAR NA SEÇÃO 2 - item 4 - IMPORTANTE
